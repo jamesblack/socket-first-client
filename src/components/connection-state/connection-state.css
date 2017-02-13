@@ -1,0 +1,9 @@
+:local .connected {
+  background: #33FF33;
+  color: #333333;
+}
+
+:local .disconnected {
+  background: #ff3333;
+  color: #ffffff;
+}
